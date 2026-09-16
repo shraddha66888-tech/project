@@ -1,0 +1,11 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   future/home.html
+#
+commit 1: Added meta viewport, title, and linked CSS in home.html for better responsiveness and styling.
