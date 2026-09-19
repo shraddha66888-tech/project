@@ -1,7 +1,7 @@
 /* ==========================================================================
    1. Design System & Base Resets
    ========================================================================== */
-@import url('https://googleapis.com');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 * {
     margin: 0;
@@ -67,7 +67,7 @@ main {
 /* Grid Wrapper for Product Sections */
 main {
     display: grid;
-    grid-template-columns: repeat(12, 1-fr);
+    grid-template-columns: repeat(12, 1fr);
     gap: 2rem;
 }
 
